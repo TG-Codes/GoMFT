@@ -28,7 +28,6 @@ go.work.sum
 
 # IDE/editor specific files
 .idea/
-.vscode/
 *.swp
 *~
 
@@ -82,3 +81,7 @@ backups/
 
 # Ignore binaries
 gomft
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
+branch_structure.json
